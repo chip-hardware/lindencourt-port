@@ -1,3 +1,9 @@
+[![Build & Test](https://github.com/chip-hardware/lindencourt-port/actions/workflows/build.yml/badge.svg)](https://github.com/chip-hardware/lindencourt-port/actions/workflows/build.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![.NET 8.0](https://img.shields.io/badge/.NET-8.0-purple.svg)](https://dotnet.microsoft.com/download/dotnet/8.0)
+[![C#](https://img.shields.io/badge/C%23-12.0-blue.svg)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![GitHub last commit](https://img.shields.io/github/last-commit/chip-hardware/lindencourt-port)](https://github.com/chip-hardware/lindencourt-port/commits/main)
+
 # Lindencourt FX System — C# Port
 
 C# (.NET 8) port of the Lindencourt FX System indicators and strategy from MQL4.
